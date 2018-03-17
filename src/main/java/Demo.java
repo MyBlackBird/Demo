@@ -4,4 +4,5 @@
 public class Demo {
     private int n = 5;
     private int i=0;
+    private int a = 6;
 }
